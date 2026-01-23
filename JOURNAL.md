@@ -1,2 +1,2 @@
-## DAY -01
-Who are you?
+## Head over to blueprint.hackclub.com/projects/1992
+
