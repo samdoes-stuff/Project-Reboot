@@ -1,2 +1,2 @@
-## Head over to blueprint.hackclub.com/projects/1992
+## Head over to www.blueprint.hackclub.com/projects/1992
 
