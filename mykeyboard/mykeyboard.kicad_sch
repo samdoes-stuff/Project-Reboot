@@ -12774,7 +12774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-2.25U"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1.75U"
 			(at 302.26 52.07 0)
 			(effects
 				(font
@@ -18679,7 +18679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-2U"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
 			(at 304.8 26.67 0)
 			(effects
 				(font
@@ -18981,7 +18981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-2.75U"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-2.25U"
 			(at 297.18 64.77 0)
 			(effects
 				(font
@@ -22905,7 +22905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-2U"
 			(at 30.48 26.67 0)
 			(effects
 				(font
@@ -23266,7 +23266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-6.25U"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1.25U"
 			(at 160.02 77.47 0)
 			(effects
 				(font
@@ -24604,7 +24604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1.25U"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-6.25U"
 			(at 236.22 77.47 0)
 			(effects
 				(font
@@ -26088,7 +26088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1.75U"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-2.25U"
 			(at 38.1 52.07 0)
 			(effects
 				(font
@@ -26988,7 +26988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-2.25U"
+		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-2.75U"
 			(at 43.18 64.77 0)
 			(effects
 				(font
