@@ -1,5 +1,5 @@
 # xD-keyboard
-This a 60% layout extended keyboard made with Gateron KS-33 Low profile switches with Hotswap socket supported by onboard MCU, nrf52840.
+This is a 60% layout extended keyboard made with Gateron KS-33 Low profile switches with Hotswap socket supported by onboard MCU, nrf52840.
 
 ## Firmware 
 
